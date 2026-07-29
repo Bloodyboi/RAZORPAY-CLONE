@@ -7,11 +7,11 @@ A fully responsive clone of the Razorpay landing page built using **HTML**, **Ta
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
-![screenshot1](screenshots/dashboard-1)
+![screenshot1](screenshots/dashboard-1.png)
 
-![screenshot2](screenshots/dashboard-2)
+![screenshot2](screenshots/dashboard-2.png)
 
-![screenshot3](screenshots/dashboard-3) 
+![screenshot3](screenshots/dashboard-3.png) 
 
 ## ✨ Features
 
